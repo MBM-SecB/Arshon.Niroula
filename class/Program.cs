@@ -4,7 +4,7 @@ namespace classtwo
 {
     class Program
     {
-        static void Main1()
+        static void Main6()
         {
             
         }
